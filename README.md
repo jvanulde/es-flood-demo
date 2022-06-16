@@ -1,6 +1,6 @@
 
 
-<img align=left width="300" alt="Tile grid representation" src="https://user-images.githubusercontent.com/2255248/174146212-915ce33f-c19f-4b5c-8327-7cc1bb4924fe.png"><img align=left width="300" alt="Heatmap representation" src="https://user-images.githubusercontent.com/2255248/174146208-b477ee09-2016-4ef1-aaf5-1352c0608dee.png"><img align=left width="300" alt="Point features" src="https://user-images.githubusercontent.com/2255248/174146189-ad1f3faf-932b-4625-91e2-e1e3dd0fe0a3.png">
+<img align=left width="200" alt="Tile grid representation" src="https://user-images.githubusercontent.com/2255248/174146212-915ce33f-c19f-4b5c-8327-7cc1bb4924fe.png"><img align=left width="200" alt="Point features" src="https://user-images.githubusercontent.com/2255248/174146189-ad1f3faf-932b-4625-91e2-e1e3dd0fe0a3.png"><img align=left width="200" alt="Heatmap representation" src="https://user-images.githubusercontent.com/2255248/174146208-b477ee09-2016-4ef1-aaf5-1352c0608dee.png">
 
 <br clear="both"/>
 
