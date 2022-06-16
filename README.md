@@ -24,7 +24,7 @@ This is a demonstration of flood event data hosted in Elasticsearch. The data is
 - Web map: http://localhost:8080
 - Elasticsearch: http://localhost:9200/_cat/indices
 - Elasticsearch index: http://localhost:9200/historical_flood_0/_search
-- Kibana: http://localhost:5601 (Disabled by default in the compose file)
+- Kibana: http://localhost:5601 (Disabled by default)
 
 ---
 
@@ -46,4 +46,4 @@ Il s'agit d'une démonstration de données sur les inondations hébergées dans 
 - Web map: http://localhost:8080
 - Elasticsearch: http://localhost:9200/_cat/indices
 - Elasticsearch index: http://localhost:9200/historical_flood_0/_search
-- Kibana: http://localhost:5601 (Disabled by default in the compose file)
+- Kibana: http://localhost:5601 (Désactivé par défaut)
