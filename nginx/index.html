@@ -453,7 +453,6 @@
                 d;
 
             data.forEach(feature => {
-                console.log(feature)
                 source = feature._source;
                 source.properties._id = feature._id;
                 features.push(source);
